@@ -1,0 +1,28 @@
+name: OrtodonciaBarcelona
+favicon: null
+layout_spectrum: 0.8352101140189916
+typography_spectrum: 0.7199114232789725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14224170614033937
+  lightness: 0.11786380782723427
+  saturation: 0.6751007202547044
+  rhythmicContrast: 0.036566981580108404
+purpose: []
